@@ -1,8 +1,8 @@
 # Public Water Access in Nigeria and its Effects on the Environment
 
-Water is an important resource. It would be difficult or even impossible to complete important daily activities (eg, bathing, cooking, washing) without water. This makes water access a relevant public issue. According to the World Health Organization, the most ideal water sources should be located close, available when needed, and free from contamination [^1]. Unfortunately, in Nigeria, access to this quality of water is poor because government water provision is lacking in many areas. This leaves many with no choice but to use water from unprotected, unregulated sources. 
+Water is an important resource. It would be difficult or even impossible to complete important daily activities (eg, bathing, cooking, washing) without water. This makes water access a relevant public issue. According to the World Health Organization, the most ideal water sources should be located close, available when needed, and free from contamination<sup>1</sup>. Unfortunately, in Nigeria, access to this quality of water is poor because government water provision is lacking in many areas. This leaves many with no choice but to use water from unprotected, unregulated sources. 
 
-This lack of coverage is exacerbated when we consider rural areas: more than a third of the rural population only has access to limited , unimproved  or surface water  sources. This includes unregulated aquifers, wells and streams. Research shows that although there have been improvements in access to safe water sources, rural coverage still lags behind. For example, in 2017, while only 1.8% of urban residents used surface water like streams as their primary source of drinking water, this was almost 13% in rural areas. This has translated to adverse effects on health; for example, diarrhea, a gastrointestinal disease usually caused by drinking contaminated water, is responsible for 150,000 annually in Nigeria . Rural residents, who lack access to safe water facilities, are more at risk of contracting diarrhea due to contaminated water.
+This lack of coverage is exacerbated when we consider rural areas: more than a third of the rural population only has access to limited<sup>2</sup>, unimproved<sup>3</sup>, or surface water sources<sup>4</sup>. This includes unregulated aquifers, wells and streams. Research shows that although there have been improvements in access to safe water sources, rural coverage still lags behind. For example, in 2017, while only 1.8% of urban residents used surface water like streams as their primary source of drinking water, this was almost 13% in rural areas. This has translated to adverse effects on health; for example, diarrhea, a gastrointestinal disease usually caused by drinking contaminated water, is responsible for 150,000 annually in Nigeria . Rural residents, who lack access to safe water facilities, are more at risk of contracting diarrhea due to contaminated water.
 
 ![](bar_plot.png)
 
@@ -17,10 +17,13 @@ The lack of publicly available water has implications for the environment. Poor 
 
 In conclusion, the Nigerian government must make a conscientious effort to increase access to water, especially in rural areas. Research has shown that the health and environmental consequences of water shortage are too important to ignore.
 
-[^1]: https://washdata.org/monitoring/drinking-water
-[^2]: Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing
-[^3]: Drinking water from an unprotected dug well or unprotected spring
-[^4]: Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal
+
+
+### Footnotes
+<sup>1</sup>: _https://washdata.org/monitoring/drinking-water_ <br>
+<sup>2</sup>: Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing
+<sup>3</sup>: Drinking water from an unprotected dug well or unprotected spring <br>
+<sup>4</sup>: Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal
 
   
 
