@@ -20,10 +20,10 @@ In conclusion, the Nigerian government must make a conscientious effort to incre
 
 
 ### Footnotes
-<sup>1</sup>: _https://washdata.org/monitoring/drinking-water_ <br>
-<sup>2</sup>: Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing
-<sup>3</sup>: Drinking water from an unprotected dug well or unprotected spring <br>
-<sup>4</sup>: Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal
+<sup>1</sup> _https://washdata.org/monitoring/drinking-water_ <br>
+<sup>2</sup> Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing
+<sup>3</sup> Drinking water from an unprotected dug well or unprotected spring <br>
+<sup>4</sup> Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal
 
   
 
