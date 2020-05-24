@@ -1,0 +1,181 @@
+ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Service level
+NGA,Nigeria,rural,Drinking water,2000,23.79831,18973099.47026,Basic service
+NGA,Nigeria,urban,Drinking water,2000,49.54796,21121025.74362,Basic service
+NGA,Nigeria,rural,Drinking water,2000,5.69765,4542423.29009,Limited service
+NGA,Nigeria,urban,Drinking water,2000,15.03409,6408648.81163,Limited service
+NGA,Nigeria,rural,Drinking water,2000,11.0769,8831013.19347,Safely managed service
+NGA,Nigeria,urban,Drinking water,2000,23.43227,9988578.23634,Safely managed service
+NGA,Nigeria,rural,Drinking water,2000,33.91164,27035911.87832,Surface water
+NGA,Nigeria,urban,Drinking water,2000,6.71562,2862697.07354,Surface water
+NGA,Nigeria,rural,Drinking water,2000,25.5155,20342120.39397,Unimproved
+NGA,Nigeria,urban,Drinking water,2000,5.27006,2246489.90876,Unimproved
+NGA,Nigeria,rural,Drinking water,2001,24.5933,19849718.09294,Basic service
+NGA,Nigeria,urban,Drinking water,2001,49.69826,22240741.75737,Basic service
+NGA,Nigeria,rural,Drinking water,2001,5.88798,4752297.95261,Limited service
+NGA,Nigeria,urban,Drinking water,2001,15.0797,6748398.72662,Limited service
+NGA,Nigeria,rural,Drinking water,2001,11.44693,9239034.59423,Safely managed service
+NGA,Nigeria,urban,Drinking water,2001,23.50335,10518115.53919,Safely managed service
+NGA,Nigeria,rural,Drinking water,2001,33.91164,27370727.97353,Surface water
+NGA,Nigeria,urban,Drinking water,2001,6.71562,3005344.44321,Surface water
+NGA,Nigeria,rural,Drinking water,2001,24.16014,19500108.58121,Unimproved
+NGA,Nigeria,urban,Drinking water,2001,5.00307,2238952.33909,Unimproved
+NGA,Nigeria,rural,Drinking water,2002,25.49756,20829736.69857,Basic service
+NGA,Nigeria,urban,Drinking water,2002,50.48976,23716880.92246,Basic service
+NGA,Nigeria,rural,Drinking water,2002,6.03951,4933862.93202,Limited service
+NGA,Nigeria,urban,Drinking water,2002,14.4841,6803707.14435,Limited service
+NGA,Nigeria,rural,Drinking water,2002,11.7465,9596072.86013,Safely managed service
+NGA,Nigeria,urban,Drinking water,2002,23.57443,11073769.91008,Safely managed service
+NGA,Nigeria,rural,Drinking water,2002,32.60317,26634529.32753,Surface water
+NGA,Nigeria,urban,Drinking water,2002,6.41047,3011231.6158,Surface water
+NGA,Nigeria,rural,Drinking water,2002,24.11327,19698867.71084,Unimproved
+NGA,Nigeria,urban,Drinking water,2002,5.04124,2368052.87821,Unimproved
+NGA,Nigeria,rural,Drinking water,2003,26.40865,21832792.79822,Basic service
+NGA,Nigeria,urban,Drinking water,2003,51.28514,25283395.879,Basic service
+NGA,Nigeria,rural,Drinking water,2003,6.18862,5116307.36539,Limited service
+NGA,Nigeria,urban,Drinking water,2003,13.88463,6845073.1917,Limited service
+NGA,Nigeria,rural,Drinking water,2003,12.04165,9955175.09162,Safely managed service
+NGA,Nigeria,urban,Drinking water,2003,23.64551,11657156.58143,Safely managed service
+NGA,Nigeria,rural,Drinking water,2003,31.29469,25872221.72655,Surface water
+NGA,Nigeria,urban,Drinking water,2003,6.10532,3009902.28745,Surface water
+NGA,Nigeria,rural,Drinking water,2003,24.06639,19896374.7876,Unimproved
+NGA,Nigeria,urban,Drinking water,2003,5.0794,2504128.29104,Unimproved
+NGA,Nigeria,rural,Drinking water,2004,27.32659,22860610.45517,Basic service
+NGA,Nigeria,urban,Drinking water,2004,52.08438,26946690.90281,Basic service
+NGA,Nigeria,rural,Drinking water,2004,6.33529,5299915.47336,Limited service
+NGA,Nigeria,urban,Drinking water,2004,13.28129,6871290.01085,Limited service
+NGA,Nigeria,rural,Drinking water,2004,12.33238,10316903.66855,Safely managed service
+NGA,Nigeria,urban,Drinking water,2004,23.71659,12270161.32984,Safely managed service
+NGA,Nigeria,rural,Drinking water,2004,29.98622,25085571.88833,Surface water
+NGA,Nigeria,urban,Drinking water,2004,5.80017,3000812.07809,Surface water
+NGA,Nigeria,rural,Drinking water,2004,24.01951,20094003.53085,Unimproved
+NGA,Nigeria,urban,Drinking water,2004,5.11757,2647656.66214,Unimproved
+NGA,Nigeria,rural,Drinking water,2005,28.25138,23914867.41455,Basic service
+NGA,Nigeria,urban,Drinking water,2005,52.88748,28712200.06701,Basic service
+NGA,Nigeria,rural,Drinking water,2005,6.47954,5484945.68309,Limited service
+NGA,Nigeria,urban,Drinking water,2005,12.67409,6880663.90872,Limited service
+NGA,Nigeria,rural,Drinking water,2005,12.61871,10681771.94863,Safely managed service
+NGA,Nigeria,urban,Drinking water,2005,23.78767,12914141.27556,Safely managed service
+NGA,Nigeria,rural,Drinking water,2005,28.67774,24275786.72577,Surface water
+NGA,Nigeria,urban,Drinking water,2005,5.49502,2983204.22971,Surface water
+NGA,Nigeria,rural,Drinking water,2005,23.97263,20292898.8636,Unimproved
+NGA,Nigeria,urban,Drinking water,2005,5.15573,2799007.88336,Unimproved
+NGA,Nigeria,rural,Drinking water,2006,29.183,24995168.17628,Basic service
+NGA,Nigeria,urban,Drinking water,2006,53.69445,30586696.91125,Basic service
+NGA,Nigeria,rural,Drinking water,2006,6.62135,5671171.62716,Limited service
+NGA,Nigeria,urban,Drinking water,2006,12.06302,6871621.29558,Limited service
+NGA,Nigeria,rural,Drinking water,2006,12.90062,11049349.90708,Safely managed service
+NGA,Nigeria,urban,Drinking water,2006,23.85875,13590983.11386,Safely managed service
+NGA,Nigeria,rural,Drinking water,2006,27.36927,23441707.99029,Surface water
+NGA,Nigeria,urban,Drinking water,2006,5.18987,2956376.76873,Surface water
+NGA,Nigeria,rural,Drinking water,2006,23.92576,20492348.80233,Unimproved
+NGA,Nigeria,urban,Drinking water,2006,5.1939,2958671.40745,Unimproved
+NGA,Nigeria,rural,Drinking water,2007,30.12147,26100573.96969,Basic service
+NGA,Nigeria,urban,Drinking water,2007,54.50529,32575615.31796,Basic service
+NGA,Nigeria,rural,Drinking water,2007,6.76074,5858251.15697,Limited service
+NGA,Nigeria,urban,Drinking water,2007,11.44809,6842058.825,Limited service
+NGA,Nigeria,rural,Drinking water,2007,13.17812,11418981.33529,Safely managed service
+NGA,Nigeria,urban,Drinking water,2007,23.92983,14301895.26146,Safely managed service
+NGA,Nigeria,rural,Drinking water,2007,26.06079,22581952.00344,Surface water
+NGA,Nigeria,urban,Drinking water,2007,4.88472,2919401.37164,Surface water
+NGA,Nigeria,rural,Drinking water,2007,23.87888,20691300.15059,Unimproved
+NGA,Nigeria,urban,Drinking water,2007,5.23207,3126994.60796,Unimproved
+NGA,Nigeria,rural,Drinking water,2008,31.06678,27229886.91282,Basic service
+NGA,Nigeria,urban,Drinking water,2008,55.32,34684461.31966,Basic service
+NGA,Nigeria,rural,Drinking water,2008,6.89769,6045795.88227,Limited service
+NGA,Nigeria,urban,Drinking water,2008,10.82928,6789730.06578,Limited service
+NGA,Nigeria,rural,Drinking water,2008,13.45121,11789918.91871,Safely managed service
+NGA,Nigeria,urban,Drinking water,2008,24.00091,15048060.39791,Safely managed service
+NGA,Nigeria,rural,Drinking water,2008,24.75232,21695287.31563,Surface water
+NGA,Nigeria,urban,Drinking water,2008,4.57957,2871294.34549,Surface water
+NGA,Nigeria,rural,Drinking water,2008,23.832,20888634.06343,Unimproved
+NGA,Nigeria,urban,Drinking water,2008,5.27023,3304322.77829,Unimproved
+NGA,Nigeria,rural,Drinking water,2009,32.01894,28383309.53554,Basic service
+NGA,Nigeria,urban,Drinking water,2009,56.13857,36914933.43211,Basic service
+NGA,Nigeria,rural,Drinking water,2009,7.03222,6233738.52297,Limited service
+NGA,Nigeria,urban,Drinking water,2009,10.20662,6711544.272,Limited service
+NGA,Nigeria,rural,Drinking water,2009,13.71988,12162040.70176,Safely managed service
+NGA,Nigeria,urban,Drinking water,2009,24.07199,15828973.38102,Safely managed service
+NGA,Nigeria,rural,Drinking water,2009,23.44384,20781883.05361,Surface water
+NGA,Nigeria,urban,Drinking water,2009,4.27442,2810723.94314,Surface water
+NGA,Nigeria,rural,Drinking water,2009,23.78512,21084412.72525,Unimproved
+NGA,Nigeria,urban,Drinking water,2009,5.3084,3490632.43261,Unimproved
+NGA,Nigeria,rural,Drinking water,2010,32.97793,29557607.21211,Basic service
+NGA,Nigeria,urban,Drinking water,2010,56.96101,39274522.37251,Basic service
+NGA,Nigeria,rural,Drinking water,2010,7.16432,6421265.01464,Limited service
+NGA,Nigeria,urban,Drinking water,2010,9.58008,6605449.06964,Limited service
+NGA,Nigeria,rural,Drinking water,2010,13.98414,12533767.07534,Safely managed service
+NGA,Nigeria,urban,Drinking water,2010,24.14307,16646607.40217,Safely managed service
+NGA,Nigeria,rural,Drinking water,2010,22.13537,19839582.94941,Surface water
+NGA,Nigeria,urban,Drinking water,2010,3.96927,2736807.09272,Surface water
+NGA,Nigeria,rural,Drinking water,2010,23.73824,21276217.80881,Unimproved
+NGA,Nigeria,urban,Drinking water,2010,5.34656,3686446.00265,Unimproved
+NGA,Nigeria,rural,Drinking water,2011,33.94377,30758159.30618,Basic service
+NGA,Nigeria,urban,Drinking water,2011,57.78732,41758297.2721,Basic service
+NGA,Nigeria,rural,Drinking water,2011,7.29398,6609444.69574,Limited service
+NGA,Nigeria,urban,Drinking water,2011,8.94968,6467220.39521,Limited service
+NGA,Nigeria,rural,Drinking water,2011,14.24399,12907193.65914,Safely managed service
+NGA,Nigeria,urban,Drinking water,2011,24.21415,17497640.7818,Safely managed service
+NGA,Nigeria,rural,Drinking water,2011,20.82689,18872292.54182,Surface water
+NGA,Nigeria,urban,Drinking water,2011,3.66412,2647770.39756,Surface water
+NGA,Nigeria,rural,Drinking water,2011,23.69137,21467938.19447,Unimproved
+NGA,Nigeria,urban,Drinking water,2011,5.38473,3891114.75598,Unimproved
+NGA,Nigeria,rural,Drinking water,2012,34.91645,31984155.42566,Basic service
+NGA,Nigeria,urban,Drinking water,2012,58.61749,44370700.16781,Basic service
+NGA,Nigeria,rural,Drinking water,2012,7.42122,6797982.34821,Limited service
+NGA,Nigeria,urban,Drinking water,2012,8.31541,6294376.46966,Limited service
+NGA,Nigeria,rural,Drinking water,2012,14.49942,13281754.2458,Safely managed service
+NGA,Nigeria,urban,Drinking water,2012,24.28523,18382784.75932,Safely managed service
+NGA,Nigeria,rural,Drinking water,2012,19.51841,17879249.7047,Surface water
+NGA,Nigeria,urban,Drinking water,2012,3.35897,2542585.98061,Surface water
+NGA,Nigeria,rural,Drinking water,2012,23.64449,21658813.67274,Unimproved
+NGA,Nigeria,urban,Drinking water,2012,5.42289,4104877.22548,Unimproved
+NGA,Nigeria,rural,Drinking water,2013,35.89598,33234314.83557,Basic service
+NGA,Nigeria,urban,Drinking water,2013,59.45153,47111910.31294,Basic service
+NGA,Nigeria,rural,Drinking water,2013,7.54603,6986493.42177,Limited service
+NGA,Nigeria,urban,Drinking water,2013,7.67727,6083797.66604,Limited service
+NGA,Nigeria,rural,Drinking water,2013,14.75044,13656707.17724,Safely managed service
+NGA,Nigeria,urban,Drinking water,2013,24.35631,19300972.4804,Safely managed service
+NGA,Nigeria,rural,Drinking water,2013,18.20994,16859683.63951,Surface water
+NGA,Nigeria,urban,Drinking water,2013,3.05382,2419979.3808,Surface water
+NGA,Nigeria,rural,Drinking water,2013,23.59761,21847862.1442,Unimproved
+NGA,Nigeria,urban,Drinking water,2013,5.46106,4327574.94153,Unimproved
+NGA,Nigeria,rural,Drinking water,2014,36.88235,34505585.66496,Basic service
+NGA,Nigeria,urban,Drinking water,2014,60.28944,49982756.67693,Basic service
+NGA,Nigeria,rural,Drinking water,2014,7.6684,7174238.80298,Limited service
+NGA,Nigeria,urban,Drinking water,2014,7.03527,5832569.78881,Limited service
+NGA,Nigeria,rural,Drinking water,2014,14.99705,14030616.17451,Safely managed service
+NGA,Nigeria,urban,Drinking water,2014,24.42739,20251447.36349,Safely managed service
+NGA,Nigeria,rural,Drinking water,2014,16.90146,15812304.78775,Surface water
+NGA,Nigeria,urban,Drinking water,2014,2.74867,2278779.19325,Surface water
+NGA,Nigeria,rural,Drinking water,2014,23.55073,22033083.08551,Unimproved
+NGA,Nigeria,urban,Drinking water,2014,5.49923,4559114.46182,Unimproved
+NGA,Nigeria,rural,Drinking water,2015,37.87556,35795439.31301,Basic service
+NGA,Nigeria,urban,Drinking water,2015,61.13121,52984695.79902,Basic service
+NGA,Nigeria,rural,Drinking water,2015,7.78835,7360616.57396,Limited service
+NGA,Nigeria,urban,Drinking water,2015,6.3894,5537935.1529,Limited service
+NGA,Nigeria,rural,Drinking water,2015,15.23925,14402310.77275,Safely managed service
+NGA,Nigeria,urban,Drinking water,2015,24.49847,21233737.31448,Safely managed service
+NGA,Nigeria,rural,Drinking water,2015,15.59299,14736624.75929,Surface water
+NGA,Nigeria,urban,Drinking water,2015,2.44352,2117893.67876,Surface water
+NGA,Nigeria,rural,Drinking water,2015,23.50385,22213027.6193,Unimproved
+NGA,Nigeria,urban,Drinking water,2015,5.53739,4799463.01655,Unimproved
+NGA,Nigeria,rural,Drinking water,2016,38.87561,37104558.57418,Basic service
+NGA,Nigeria,urban,Drinking water,2016,61.97685,56117146.39925,Basic service
+NGA,Nigeria,rural,Drinking water,2016,7.90587,7545702.1492,Limited service
+NGA,Nigeria,urban,Drinking water,2016,5.73967,5197003.47008,Limited service
+NGA,Nigeria,rural,Drinking water,2016,15.47703,14771944.31436,Safely managed service
+NGA,Nigeria,urban,Drinking water,2016,24.56955,22246582.74601,Safely managed service
+NGA,Nigeria,rural,Drinking water,2016,14.28451,13633755.22175,Surface water
+NGA,Nigeria,urban,Drinking water,2016,2.13837,1936198.64676,Surface water
+NGA,Nigeria,rural,Drinking water,2016,23.45698,22388349.90208,Unimproved
+NGA,Nigeria,urban,Drinking water,2016,5.57556,5048406.57632,Unimproved
+NGA,Nigeria,rural,Drinking water,2017,39.88251,38431310.3735,Basic service
+NGA,Nigeria,urban,Drinking water,2017,62.82635,59386610.13276,Basic service
+NGA,Nigeria,rural,Drinking water,2017,8.02096,7729100.06849,Limited service
+NGA,Nigeria,urban,Drinking water,2017,5.08607,4807605.97994,Limited service
+NGA,Nigeria,rural,Drinking water,2017,15.7104,15138748.31969,Safely managed service
+NGA,Nigeria,urban,Drinking water,2017,24.64063,23291555.76014,Safely managed service
+NGA,Nigeria,rural,Drinking water,2017,12.97604,12503881.62525,Surface water
+NGA,Nigeria,urban,Drinking water,2017,1.83323,1732855.94661,Surface water
+NGA,Nigeria,rural,Drinking water,2017,23.4101,22558280.8899,Unimproved
+NGA,Nigeria,urban,Drinking water,2017,5.61372,5306370.90373,Unimproved
