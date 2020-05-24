@@ -13,3 +13,16 @@ Despite these dire indicators, some effort has been made to bridge the urban-rur
 
 The lack of publicly available water has implications for the environment. Poor access to public water coupled with mistrust in its quality have led consumers to depend on water provided by the private market. This has led to an increase in plastic consumption as many private companies sell their water in plastic containers. Research shows the number of plastic bottles used has doubled in the past three years, reaching approximately 150,000 metric tons annually . Unfortunately, this has led to an increase in plastic pollution due to inadequate recycling facilities. Most of this waste ends up in in dumps or waterways, which result in toxins polluting water and drainage of waterways. 
 
+![](waste_africa.png)
+
+In conclusion, the Nigerian government must make a conscientious effort to increase access to water, especially in rural areas. Research has shown that the health and environmental consequences of water shortage are too important to ignore.
+
+[^1]: https://washdata.org/monitoring/drinking-water
+[^2]: Drinking water from an improved source for which collection time exceeds 30 minutes for a roundtrip including queuing
+[^3]: Drinking water from an unprotected dug well or unprotected spring
+[^4]: Drinking water directly from a river, dam, lake, pond, stream, canal or irrigation canal
+
+  
+
+
+
